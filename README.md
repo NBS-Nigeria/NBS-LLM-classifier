@@ -1,4 +1,4 @@
-![ONS Logo](./ONS_Logo_Digital_Colour_Landscape_English_RGB.svg)
+![NBS Logo](https://nigerianstat.gov.ng/assets/img/logo/logo.png)
 
 # ✨ NBS LLM Classifier ✨
 This is an implementation of the [ClassifAI](https://datasciencecampus.github.io/classifai/) Python package that supports the semi-automatic classification of free text responses in the [NBS](https://nigerianstat.gov.ng/) Labour Force Survey to [ISCO](https://ilostat.ilo.org/methods/concepts-and-definitions/classification-occupation/) and [ISIC](https://ilostat.ilo.org/methods/concepts-and-definitions/classification-economic-activities/) coding schemes.
